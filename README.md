@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Screenwriting-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-DAW+/+Music+Production-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Beat Free Installer** — Beat is a free, open-source screenwriting application for macOS that uses Fountain plain-text markup. Works without internet access, no account required. Full offline installation.
+**💻 Beat Free Installer** — Beat is a minimalist, intuitive music production application for macOS. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Beat
 
-Beat is a free, open-source screenwriting application for macOS that uses Fountain plain-text markup. It provides industry-standard screenplay formatting, index cards, scene outline, and print to PDF — all stored in portable, version-control-friendly plain text files.
+Beat is a minimalist, intuitive music production application for macOS. Designed as a simple loop-based sequencer with a clean interface, Beat helps musicians quickly sketch musical ideas, create patterns, and build tracks without the complexity of a full DAW. Its focused feature set and visual design make it accessible for beginners while remaining useful for quick ideation by experienced producers.
 
 ---
 
 ## ❌ Problem: Beat is hard to access
 
-- **macOS Only** — No Windows or Linux native version (web version available)
-- **Fountain Markup** — Requires learning Fountain syntax rather than WYSIWYG formatting
-- **Basic Feature Set** — Missing some features of commercial apps like Final Draft
-- **Small Community** — Fewer resources and templates than established screenwriting tools
+- **macOS Only** — No Windows version
+- **Limited Features** — Simple sequencer not suitable for professional production
+- **VST Support** — Plugin support limited compared to professional DAWs
+- **Export Options** — Limited export formats for integration with other tools
 
 ---
 
@@ -121,7 +121,7 @@ Beat is a free, open-source screenwriting application for macOS that uses Founta
 
 ---
 
-**Beat Free Installer** — Beat is a free, open-source screenwriting application for macOS that uses Fountain plain-text markup. Install without internet connection today!
+**Beat Free Installer** — Beat is a minimalist, intuitive music production application for macOS. Install without internet connection today!
 
 <div align="center">
 
